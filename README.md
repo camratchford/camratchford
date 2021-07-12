@@ -7,7 +7,7 @@
 - Loves Pizza
 - Will try to automate everything if left unattended
 
-##Interests
+## Interests
 - Python (Specifically Flask)
 - Frontend Webdev
 - Infrastructre as Code
