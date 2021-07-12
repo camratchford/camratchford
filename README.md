@@ -1,7 +1,7 @@
-#Welcome
+#  Welcome
 @camratchford's profile
 
-##About Me
+## About Me
 - Sysadmin by Day
 - Webdev by Night
 - Loves Pizza
