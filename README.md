@@ -3,16 +3,15 @@
 
 
 ## About Me
-- Sysadmin by Day
-- Webdev by Night
 - Loves Pizza
-- Will try to automate everything if left unattended
+- Writes code occasionally
 
 ## Interests
-- Python (Specifically Flask)
-- Frontend Webdev
+- Python 
+- Frontend
 - Infrastructre as Code
 - PowerShell
+- Informing the public about propper clubhouse sandwich composition
 
 
 <!---
