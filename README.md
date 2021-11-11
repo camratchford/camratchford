@@ -1,5 +1,5 @@
 <head> 
-    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://github.com/camratchford/camratchford/blob/main/style.css">
 </head>
 
 #  Welcome
