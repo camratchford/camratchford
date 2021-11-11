@@ -1,5 +1,4 @@
 <head> 
-
 <style type="text/css">
 h1 {
     margin: 0 5vw;
@@ -18,11 +17,11 @@ h1 {
 }
 
 .main {
-    width: 70%;
-
-    height: 100vh;
-    border-left: 1px solid white;
+width: 70%;
+height: 100vh;
+border-left: 1px solid white;
 }
+
 </style>
 </head>
 
