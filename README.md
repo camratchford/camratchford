@@ -1,6 +1,9 @@
-<head> 
-    <link rel="stylesheet" href="https://github.com/camratchford/camratchford/blob/main/style.css">
-</head>
+<style>
+    h1 {
+    margin: 0 5vw;
+    color: #41e4a5;
+}
+</style>
 
 #  Welcome
 @camratchford's profile
