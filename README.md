@@ -8,10 +8,9 @@ You can find me on [linkedin](https://linkedin.com/cameron-ratchford)
 
 ## Interests
 
-- Templating Systems
-- YAML
 - Configuration Management
 - Infrastructure as Code
-- Backend (Django, FastAPI, or Flask. In no particular order.)
-- Digital Electronics and 8-bit Computers
+- Templating Systems
+- Python Web Backends
+- Digital Electronics
 
